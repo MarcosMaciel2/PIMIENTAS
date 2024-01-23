@@ -8,5 +8,5 @@
 >
 >
 <div align="center">
-    <img src="./klinical1.png" width="50%" /> 
+    <img src="./1.png" width="50%" /> 
 </div>
