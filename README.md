@@ -15,15 +15,22 @@
 
 
 >[!IMPORTANT]
+>1
 
 
 >[!NOTE]
+>2
 
 
 >[!TIP]
+>3
 
 
 >[!CAUTION]
+>4
 
 
 >[!WARNING]
+>5
+
+
