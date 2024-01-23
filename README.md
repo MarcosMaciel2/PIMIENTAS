@@ -30,7 +30,13 @@
     <img src="./4.png" width="70%" /> 
 </div>
 
+
 >[!WARNING]
->5
+>Eliminar producto, se podria desde el dashboard y desde editar/crear pedido. Poder eliminar multiples o individual. Otra opcion es cuando no tenemos stock y por ejemplo el cliente pidio 10 unidades, solo tenemos 5 y queremos finalizar el pedido con estos 5. Por que el cliente nos pide que le entregemos lo que tengamos nomas.
+>Con simplemente darle click en la X se borra el producto y es mas rapido que seleccionar 1 a 1 con el checkbox
+
+<div align="center">
+    <img src="./5.png" width="70%" /> 
+</div>
 
 
