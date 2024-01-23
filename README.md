@@ -8,14 +8,18 @@
 >
 >
 <div align="center">
-    <img src="./1.png" width="50%" /> 
+    <img src="./1.png" width="70%" /> 
 </div>
 
 
 
 
 >[!IMPORTANT]
->1
+>Dependiendo del tipo de proceso/tiempo de produccion que tenga el producto que se marque o quede en modo shadow. Hay productos que como no tienen procesos es innecesario visualizar ese campo.
+>Ej:
+<div align="center">
+    <img src="./2.png" width="70%" /> 
+</div>
 
 
 >[!NOTE]
